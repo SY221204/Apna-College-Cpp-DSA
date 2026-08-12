@@ -2,7 +2,7 @@
 using namespace std;
 
 // For Loop
-/* int main(){
+int main(){
     int num;
     for(num = 1; num <= 5; num++){
         cout<<num<<" ";
@@ -12,7 +12,7 @@ using namespace std;
     cout <<"last value of num = "<< num <<endl;
 
     return 0;
-} */
+}
 
 
 // Question for For Loop
